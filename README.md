@@ -75,10 +75,10 @@ Feel free to open issues and pull requests.
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./art/home.png"                 style="width: 32%; min-width: 200px; height: auto;" />
-  <img src="./art/create_character_1.png"   style="width: 32%; min-width: 200px; height: auto;" />
-  <img src="./art/create_character_2.png"   style="width: 32%; min-width: 200px; height: auto;" />
-  <img src="./art/character_details_1.png"  style="width: 32%; min-width: 200px; height: auto;" />
-  <img src="./art/character_details_2.png"  style="width: 32%; min-width: 200px; height: auto;" />
+  <img title="home character screen" alt="home character screen" src="./art/home.png"      style="width: 32%; min-width: 200px; height: auto;" />
+  <img title="create character screen" alt="create character screen" src="./art/create_character_1.png"   style="width: 32%; min-width: 200px; height: auto;" />
+  <img title="create character screen" alt="create character screen" src="./art/create_character_2.png"   style="width: 32%; min-width: 200px; height: auto;" />
+  <img title="character details screen" alt="character details screen" src="./art/character_details_1.png"  style="width: 32%; min-width: 200px; height: auto;" />
+  <img title="character details screen" alt="character details screen" src="./art/character_details_2.png"  style="width: 32%; min-width: 200px; height: auto;" />
 </div>
 
