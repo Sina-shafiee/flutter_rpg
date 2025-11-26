@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531104500376",
+    "project_id": "rpg-app-98ee7",
+    "storage_bucket": "rpg-app-98ee7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531104500376:android:e99117781c3a1b48a41eed",
+        "android_client_info": {
+          "package_name": "com.sina.shafiee.rpg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANrGr-Mjr63Pq_nM18zc4Bysns04khen8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
