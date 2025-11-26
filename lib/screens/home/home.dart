@@ -18,7 +18,7 @@ class HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const StyledTitle("Your rpg")),
+      appBar: AppBar(title: const StyledTitle("Your Characters")),
       body: Container(
         padding: const EdgeInsets.fromLTRB(20, 20, 20, 20),
         child: Column(
